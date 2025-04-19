@@ -4,7 +4,9 @@ venv/
 env/
 
 # Custom experiment folder
-/exp/
+exp/
+/exp/     
+./exp/
 
 # Python cache and build files
 __pycache__/
