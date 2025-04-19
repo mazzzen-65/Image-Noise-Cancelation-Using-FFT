@@ -1,0 +1,11 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Custom experiment folder
+/exp/
+
+# Python cache and build files
+__pycache__/
+*.py[cod]
