@@ -16,7 +16,7 @@ A Python implementation of frequency-domain image filtering using Fast Fourier T
 - Make sure of the image name in the code
 - Run Python Code
   
-To Install The Requiered Librarys:
+## To Install The Requiered Librarys
 - Paste the following command in the terminal
 ```bash
 pip install opencv-python numpy matplotlib
